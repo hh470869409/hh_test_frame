@@ -1,0 +1,2 @@
+{"serialnumber":"16073062d1558","appcode":"ruyueziche","body":{"identity":"44010419890116503@","name":"罗早丰","mobile":"18520216843"},"sign":"52f4201717d6949f49cf9ae5b53debc0"}
+{"sn":"9f1da3ce4c9e4f99a5be15784eca485d","status":-1000,"message":"identity参数格式错误","data":null}
